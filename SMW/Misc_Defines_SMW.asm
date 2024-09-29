@@ -4,7 +4,7 @@
 !CustomBGMap16 = 0 ;Allows additional BG Map16 Pages NOTE: BROKEN due to lack of level header tables
 !ExtLevelHeader = 0 ;BROKEN due to lack of level header tables
 !4BPPGFX33 = 0 ;Makes GFX33 4bpp (Broken)
-!ExtSpriteBankByte = 1 ;Removes some hardcoding in Sprite Bank Bytes
+!ExtSpriteBankByte = 0 ;Removes some hardcoding in Sprite Bank Bytes
 !LMDisplayMessageOverworldPositionHack = 0 ; Make Display Message sprite no longer affect your overworld position (LM SHIFT+F8). NOTE: DO NOT TURN THIS ON UNLESS MARIO IS IN A CUSTOM POSITION ON THE OVERWORLD!
 !DontDropReserveItemWhenDamaged = 0 ; Prevents the reserve item from dropping when taking damage. Instead SELECT will need to be used.
 
